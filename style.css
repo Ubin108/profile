@@ -1,0 +1,18 @@
+.page_title{
+  text-align: center;
+  padding-top: 10px;
+}
+.music {
+  margin-top: 10px;
+  border: 2px solid;
+  text-align: center;
+}
+.genre {
+  background-color: #A9F5D0;
+  border: 2px solid;
+  width: 80px;
+}
+.song {
+  border: 2px solid;
+  width: 250px;
+}
